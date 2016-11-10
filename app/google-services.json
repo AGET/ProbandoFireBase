@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "577644012362",
+    "firebase_url": "https://fir-test-7f2c9.firebaseio.com",
+    "project_id": "fir-test-7f2c9",
+    "storage_bucket": "fir-test-7f2c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577644012362:android:724c23d237709e8c",
+        "android_client_info": {
+          "package_name": "com.aldo.aget.probandofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577644012362-c47nr90cbrneb4ms2e6st7m61k0guo55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRVEKXrGK9J5c6nnnsP8V606Q56HfwNjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
